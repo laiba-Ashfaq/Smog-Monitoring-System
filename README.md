@@ -8,7 +8,7 @@ The system fuses satellite imagery, weather data, ground-station readings, and a
 
 This project demonstrates the integration of classical digital image processing, gradient-boosted machine learning, geospatial dashboards, and cloud deployment to turn freely available satellite data into actionable public-health intelligence at a fraction of the cost of physical sensor networks.
 
----
+----
 
 ## Objectives
 
