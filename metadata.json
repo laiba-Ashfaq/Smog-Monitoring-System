@@ -1,6 +1,0 @@
-{
-  "name": "Smog Monitoring System",
-  "description": "Satellite-fused real-time smog monitoring, DIP ML image processing, NASA FIRMS crop-fire tracking, and multi-stakeholder alert system for Lahore and Punjab.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
