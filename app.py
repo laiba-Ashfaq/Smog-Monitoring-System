@@ -31,7 +31,7 @@ from src.ml_pipeline import SmogMLPipeline, FEATURE_COLUMNS
 from src.preprocessing import SatellitePreprocessor
 from src.data_ingestion import DataIngestionPipeline
 from src.alert_engine import AlertEngine
-from src.database import TimeSeriesDatabase
+from database import TimeSeriesDatabase
 from src.punjab_geo import PUNJAB_DISTRICTS, PEQS_STATIONS, SEVERITY_LEVELS
 
 # Set Streamlit Page Config - Sidebar collapsed by default
