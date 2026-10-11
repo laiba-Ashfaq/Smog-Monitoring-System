@@ -1,4 +1,4 @@
-# Smog Sentinel Punjab - AI-Powered Smog Monitoring System
+# AI-Powered Smog Monitoring System
 
 ## Project Overview
 
